@@ -56,5 +56,10 @@ Founder of a successful business for 14 years alongside studies. Demonstratable 
 -- JavaScript
 -- Django
 
-## English Language
+## Languages
+
+#### I lived and studied in the USA which helped me to speak fluent English. My mother tongue is Spanish but I use English 90% of the time. 
+#### I am a native Spanish speaker
+#### I speak basic Ukrainian
+
 
