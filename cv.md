@@ -28,6 +28,12 @@ Founder of a successful business for 14 years alongside studies. Demonstratable 
 
 ## Education
 
+- Bachelor's Degree in Computer Science - 2023
+- Associates in Computer Science - 2022
+- DataCamp Python Intermediate - 2022
+- DataCamp Data Manipulation with Pandas 2022
+- Associates in Applied Science - 2017
+- Vocational Training in CAD – 2016
 
 
 ## Online Courses
