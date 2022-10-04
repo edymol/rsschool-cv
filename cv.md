@@ -38,18 +38,15 @@ Founder of a successful business for 14 years alongside studies. Demonstratable 
 
 ## Online Courses
 - Codecademy
-- ![image](https://user-images.githubusercontent.com/36119589/193768153-367ccb5e-ff3b-4b9a-aad0-4629b0615d89.png)
-
+![image](https://user-images.githubusercontent.com/36119589/193768153-367ccb5e-ff3b-4b9a-aad0-4629b0615d89.png)
 
 
 - FreeCodeCamp
-- ![image](https://user-images.githubusercontent.com/36119589/193768513-c679c18a-da92-4c58-b61b-7f201be24963.png)
-
+![image](https://user-images.githubusercontent.com/36119589/193768513-c679c18a-da92-4c58-b61b-7f201be24963.png)
 
 
 - DataCamp
-- ![image](https://user-images.githubusercontent.com/36119589/193768945-9c01e9aa-136e-40af-92c5-09b93a469a86.png)
-
+![image](https://user-images.githubusercontent.com/36119589/193768945-9c01e9aa-136e-40af-92c5-09b93a469a86.png)
 
 
 - In progress
