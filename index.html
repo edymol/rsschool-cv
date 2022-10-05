@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Mauricio Molina</title>
+    <title>RS School CV HTM</title>
 </head>
 <body>
   <header>
-    <div>
+    <div class="wrapper">
       <nav class="navbar" id="author-name">
         <ul class="links">
-          <li class="connect"><a href="#contact">Contact Me</a></li>
-          <li class="connect"><a href="#about">About Me</a></li>
+          <li class="connect"><a href="#contact">Contact</a></li>
+          <li class="connect"><a href="#about">About</a></li>
           <li class="connect"><a href="#skills">Skills</a></li>
           <li class="connect"><a href="#experience">Experience</a></li>
           <li class="connect"><a href="#education">Education</a></li>
@@ -25,93 +25,108 @@
   </header>
 
   <main>
-    <section class="profile" id="author-profile">
-        <div>
-            <img src="MPE.jpg" alt="Author" class="author-picture">
-                <h1>Mauricio Molina</h1>
-                <h3>Computer Science Graduate</h3>
-        </div>
-    </section>
-    <section class="sections" id="contact">
-        <div class="author" id="author-info">
-            <h1 class="secion-title">Contact Me</h1>
-            <ul>
-                <li>E-mail: edyonlinestudies@gmail.com</li>
-                <li>Telegram: @MauMolP</li>
-                <li>WhatsApp: +48 694 087 612</li>
+    <div class="wrapper">
+        <section id="author-profile">
+            <div class="profile">
+                <div class="profile-heading">
+                    <h1>Mauricio Molina</h1>
+                    <h3>Computer Science Graduate</h3>
+                </div>
+                <img src="/images/MPE.jpg" alt="Author" class="author-picture">
+                
+            </div>
+        </section>
+    
+    
+        <section class="sections" id="contact">
+            <div class="author" id="author-info">
+                <h1 class="section-title">Contact</h1>
+                <ul class="inner-section">
+                    <li class="li-inner">E-mail: edyonlinestudies@gmail.com</li>
+                    <li class="li-inner">Telegram: @MauMolP</li>
+                    <li class="li-inner">WhatsApp: +48 694 087 612</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="sections" id="about">
+            <h1 class="section-title">About</h1>
+            <p class="author-bio">
+                Highly motivated, hardworking, creative, and self-motivated junior software developer. Educated to degree level (AAS) and an Associates in Computer Science, 
+                obtaining my Bachelor in Science in 2023, committed to pursuing a career in Software Engineering.<br><br>
+                Founder of a successful business, business owner for 14 years alongside studies. Demonstratable success in overseeing time-sensitive projects always aimed to achieve performance. 
+                Technically proficient with sound communication and relationship management skills, being able to understand clients’ requirements and deliver solutions 
+                to their problems, is one of my key focuses. My highly competitive nature has led me to succeed in all the fields I have worked in. My leadership experience 
+                and training have allowed me to become an effective team player being able to listen and provide input to complex problems. I am a quick learner with passion 
+                for knowledge.
+            </p>
+        </section>
+
+        <section class="sections" id="skills">
+            <h1 class="section-title">Skills</h1>
+            <ul class="inner-section">
+                <li class="li-inner">Customer Service</li>
+                <li class="li-inner">Spanish and English fluency</li>
+                <li class="li-inner">AutoCAD</li>
+                <li class="li-inner">Python</li>
+                <li class="li-inner">Revit</li>
+                <li class="li-inner">Microsoft Word</li>
             </ul>
+        </section>
+
+        <section class="sections" id="experience">
+            <h1 class="section-title">Experience</h1>
+            <p>My experience is mainly based on my studies. I am a full-time Computer Science student, in which I had to do several projects for school.</p>
+        </section>
+        <section class="sections" id="education">
+            <h1 class="section-title">Education</h1>
+            <ul class="inner-section">
+                <li class="li-inner">Bachelor's Degree in Computer Science - 2023</li>
+                <li class="li-inner">Associates in Computer Science - 2022</li>
+                <li class="li-inner">DataCamp Python Intermediate - 2022</li>
+                <li class="li-inner">DataCamp Data Manipulation with Pandas 2022</li>
+                <li class="li-inner">Associates in Applied Science - 2017</li>
+                <li class="li-inner">Vocational Training in CAD – 2016</li>
+            </ul>
+        </section>
+
+        <section class="sections" id="training">
+            <h1 class="section-title">Online Training</h1>
+            <div class="wrapper">
+
+                <ul class="courses-section">
+                    <li class="online">Codecademy <br><br><img src="/images/Codecademy.png" alt="Codecademy progress" class="courses"></li>
+                    <li class="online">FreeCodeCamp<br><br><img src="/images/FreeCodeCamp.png" alt="FreeCodeCamp Progress" class="courses"></li>
+                    <li class="online">DataCamp<br><br><img src="/images/DataCamp.png" alt="DataCamp Progress" class="courses"></li>
+                    
+                </ul>
         </div>
-    </section>
-    <section class="sections" id="about">
-        <h1 class="secion-title">Acout Me</h1>
-        <p class="author-bio">
-            Highly motivated, hardworking, creative, and self-motivated junior software developer. Educated to degree level (AAS) and an Associates in Computer Science, 
-            obtaining my Bachelor in Science in 2023, committed to pursuing a career in Software Engineering.<br><br>
-            Founder of a successful business, business owner for 14 years alongside studies. Demonstratable success in overseeing time-sensitive projects always aimed to achieve performance. 
-            Technically proficient with sound communication and relationship management skills, being able to understand clients’ requirements and deliver solutions 
-            to their problems, is one of my key focuses. My highly competitive nature has led me to succeed in all the fields I have worked in. My leadership experience 
-            and training have allowed me to become an effective team player being able to listen and provide input to complex problems. I am a quick learner with passion 
-            for knowledge.
-        </p>
-    </section>
-    <section class="sections" id="skills">
-        <h1 class="secion-title">Skills</h1>
-        <ul>
-            <li>Customer Service</li>
-            <li>Spanish and English fluency</li>
-            <li>AutoCAD</li>
-            <li>Python</li>
-            <li>Revit</li>
-            <li>Microsoft Word</li>
-        </ul>
-    </section>
-    <section class="sections" id="experience">
-        <h1 class="secion-title">Experience</h1>
-        <p>My experience is mainly based on my studies. I am a full-time Computer Science student, in which I had to do several projects for school.</p>
-    </section>
-    <section class="sections" id="education">
-        <h1 class="secion-title">Education</h1>
-        <ul>
-            <li>Bachelor's Degree in Computer Science - 2023</li>
-            <li>Associates in Computer Science - 2022</li>
-            <li>DataCamp Python Intermediate - 2022</li>
-            <li>DataCamp Data Manipulation with Pandas 2022</li>
-            <li>Associates in Applied Science - 2017</li>
-            <li>Vocational Training in CAD – 2016</li>
-        </ul>
-    </section>
-    <section class="sections" id="training">
-        <h1 class="secion-title">Online Training</h1>
-        <ul>
-            <li>Codecademy <br><br><img src="Codecademy.png" alt="Codecademy progress" class="courses"></li>
-            <li>FreeCodeCamp<br><br><img src="FreeCodeCamp.png" alt="FreeCodeCamp Progress" class="courses"></li>
-            <li>DataCamp<br><br><img src="DataCamp.png" alt="DataCamp Progress" class="courses"></li>
-            <li>In Progress<ul>
-                <li>JavaScript</li>
-                <li>Django</li>
-            </ul></li>
-        </ul>
-    </section>
-    <section class="sections" id="languages">
-        <h1 class="secion-title">Languages</h1>
-        <ul>
-            <li>English: Fluent, Native</li>
-            <li>Spanish: Fluent, Native</li>
-            <li>Ukrainian: Basic</li>
-        </ul>
-    </section>
+        </section>
+
+        <section class="sections" id="languages">
+            <h1 class="section-title">Languages</h1>
+            <ul class="inner-section">
+                <li class="li-inner">English: Fluent, Native</li>
+                <li class="li-inner">Spanish: Fluent, Native</li>
+                <li class="li-inner">Ukrainian: Basic</li>
+            </ul>
+        </section>
+
+    </div>
 
   </main>
 
   <hr>
   
-  <footer class="foot" id="social-liks">
-    <ul>
-        <li><a href="#author-name"></a>Home</li>
-        <li><a href="https://github.com/edymol"><img src="github.png" alt="GitHub Log"></a></li>
-        <li><a href="https://www.timeanddate.com/">Current Time</a></li>
-        <li><a href="https://app.rs.school/"><img src="rsschool.png" alt="RS School logo">RSSchool</a></li>
-    </ul>
+  <footer class="wrapper" id="social-liks">
+    <div class="footer">
+        <ul class="footer-a">
+            <li><a href="#author-name">Home</a></li>
+            <li><a href="https://github.com/edymol"><img class="link-logos" id="github" src="/images/github.png" alt="GitHub Log"></a></li>
+            <li><a href="https://www.timeanddate.com/">2022-2023&copy;</a></li>
+            <li><a href="https://app.rs.school/"><img class="link-logos" src="/images/rsschool.png" alt="RS School logo"></a></li>
+        </ul>
+    </div>
   </footer>
     
 </body>
