@@ -1,10 +1,7 @@
 # Edy Molina
 
-## Contact me 
-
-#### email: edyonlinestudies@gmail.com
-#### Telegram: @MauMolP
-
+Krakow, Poland | LinkedIn: www.linkedin.com/in/edymolina/| Email: edymolinap@gmail.com | 
+GitHub: github.com/edymol | Mobile: +48 733348518 
 
 ## Career Objective:
 
